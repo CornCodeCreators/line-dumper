@@ -1,0 +1,31 @@
+{
+    "name": "corncodecreations/line-dumper",
+    "description": "Show and compare strings - line by line.",
+    "keywords": ["php", "string", "compare"],
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "CornCodeCreations\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "CornCodeCreations\\Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tim Korn",
+            "email": "info@corncodecreations.de"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.3",
+        "symfony/var-dumper": "^7.1"
+    }
+}
