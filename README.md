@@ -35,3 +35,9 @@ Line   1|   ok| This is a line.
 Line   2|to-be| Another line.
 Line   2|as-is| Another different line.
 ```
+
+## Installation
+
+```shell
+$ composer require corncodecreations/line-dumper
+```
