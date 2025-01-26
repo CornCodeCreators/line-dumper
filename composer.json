@@ -1,23 +1,23 @@
 {
-    "name": "corncodecreations/line-dumper",
+    "name": "corncodecreators/line-dumper",
     "description": "Show and compare strings - line by line.",
     "keywords": ["php", "string", "compare"],
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "CornCodeCreations\\": "src/"
+            "CornCodeCreators\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "CornCodeCreations\\Tests\\": "tests/"
+            "CornCodeCreators\\Tests\\": "tests/"
         }
     },
     "authors": [
         {
             "name": "Tim Korn",
-            "email": "info@corncodecreations.de"
+            "email": "info@corncode.de"
         }
     ],
     "minimum-stability": "stable",
