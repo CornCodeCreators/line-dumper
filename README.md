@@ -39,5 +39,5 @@ Line   2|as-is| Another different line.
 ## Installation
 
 ```shell
-$ composer require corncodecreations/line-dumper
+$ composer require corncodecreators/line-dumper
 ```
