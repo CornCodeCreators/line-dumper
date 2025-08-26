@@ -9,7 +9,7 @@ This PHP class, `LineDumper`, provides a utility for comparing two strings line 
 - If they differ, it compares them line by line, indicating mismatches with color-coded output using ANSI escape codes.
 
 ## Details
-- Namespace and Class Definition: The class is defined under the CornCodeCreations namespace.
+- Namespace and Class Definition: The class is defined under the CornCodeCreators namespace.
 - compareLines Method:
   - Input: It takes two strings, $expectedString and $actualString, which represent the expected output and the actual output.
   - Output: It returns a string containing either a confirmation that the strings are equal or a line-by-line comparison highlighting differences. 

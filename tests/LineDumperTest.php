@@ -1,7 +1,7 @@
 <?php
 
 
-use CornCodeCreations\LineDumper;
+use CornCodeCreators\LineDumper;
 use PHPUnit\Framework\TestCase;
 
 class LineDumperTest extends TestCase

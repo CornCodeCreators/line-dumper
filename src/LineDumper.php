@@ -1,6 +1,6 @@
 <?php
 
-namespace CornCodeCreations;
+namespace CornCodeCreators;
 
 class LineDumper
 {
